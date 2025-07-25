@@ -1,4 +1,4 @@
-<h1 align="center">Heyy, I'm Ishh 👋</h1>
+<h1 align="center">Heyy, I'm Ishanvi! 👋</h1>
 <p align="center">
   <i>Engineering student 👩‍💻 | Full‑stack Dev 🌐 | ML Explorer 🤖 | UI Aesthetic Enthusiast 🎨</i>
 </p>
