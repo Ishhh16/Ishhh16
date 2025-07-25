@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGRqZmRxYnhiMjgzNGxodm9pc3pzbWw4MDRzeXI3aGwybDhvOGx0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gIODGWDBuG5AWlUExJ/giphy.gif" width="100%" />
+  <img src="ArtDesignGIFbydualvoidanima-ezgif.com-crop.gif" width="70%" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00B2FF&center=true&vCenter=true&width=690&lines=Frontend+lover+who+flirts+with+backend+sometimes+%F0%9F%98%8F;Building+cool+things+with+React+%2B+Node;Learning+Machine+Learning+on+zero+sleep+%F0%9F%A4%B7%E2%80%8D%E2%99%80%EF%B8%8F" />
