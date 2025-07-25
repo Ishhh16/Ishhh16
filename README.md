@@ -60,13 +60,34 @@
 
 ---
 
-### ✨ Vibe Check Projects
+### 📦 Pinned Projects
 
-- 🎨 **iPhone Website Clone** – React + Three.js + GSAP  
-  *Took me days, not just copied. Learned it deeply 💥*
-- 🧬 **PCOS Predictor** – ML stack with 96% accuracy & stacking models  
-- 🌤️ **VibeCheck: Sky Edition** – Weather app but with ✨taste✨  
-- 📚 **Hogwarts Encyclopedia** – Frontend-only wizarding nerdcore
+<table>
+  <tr>
+    <td align="center" width="45%">
+      <b>🎨 iPhone Website Clone</b><br/>
+      React • Three.js • GSAP<br/>
+      <a href="https://github.com/Ishhh16/iphoneWeb">💻 GitHub</a>
+    </td>
+    <td align="center" width="45%">
+      <b>🌤️ VibeCheck: Sky Edition</b><br/>
+      Weather App with ✨taste✨<br/>
+      <a href="https://github.com/Ishhh16/WeatherApp">💻 GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="45%">
+      <b>🎮 GTA Landing Page</b><br/>
+      Just GTA vibes 😎<br/>
+      <a href="https://github.com/Ishhh16/GtaVI">💻 GitHub</a>
+    </td>
+    <td align="center" width="45%">
+      <b>📚 Hogwarts Encyclopedia</b><br/>
+      Frontend-only wizarding nerdcore<br/>
+      <a href="https://github.com/Ishhh16/HpEncyclopedia">💻 GitHub</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -86,11 +107,21 @@
 
 ---
 
-<details>
+
 <summary>💬 Fun Facts</summary>
 <ul>
   <li>✨ My Tailwind game is stronger than my sleep schedule</li>
   <li>🧋 UI/UX > IRL chaos any day</li>
   <li>🦾 Peak productivity: 12am to existential crisis</li>
 </ul>
-</details>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishhh16&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+---
+
+
